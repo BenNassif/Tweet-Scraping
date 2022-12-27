@@ -1,0 +1,1 @@
+((russell westbrook) OR westbrick) -is:retweet -has:links lang:en
