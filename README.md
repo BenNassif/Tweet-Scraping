@@ -4,4 +4,5 @@ I am comparing tweets from 2017-2022 NBA seasons about Russell Westbrook. His MV
 performed worse and acquired the nickname 'Westbrick'. 
 
 ## To Run Code
-Requirement: need your own academic research bearer token from Twitter.
+Requirement: need your own academic research bearer token from Twitter. The tweet scraping file is used to gather all of the tweets, however, I have uploaded csv files containing all of the tweets so it isn't necessary to run this file. Use the sentiment analysis notebook to run the sentiment analysis.
+
